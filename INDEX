@@ -280,4 +280,14 @@
         "category": "collaboration",
         "maintainer": "iXsystems <dev@ixsystems.com>"
     }
+    "unifi5": {
+        "MANIFEST": "unifi5.json",
+        "name": "UniFi5",
+        "description": "Ubiquiti UniFi Controller",
+        "official": false,
+        "icon": "https://raw.githubusercontent.com/freenas/iocage-ix-plugins/master/icons/unifi5.png",
+        "primary_pkg": "Git branch - Master",
+        "category": "Network",
+        "maintainer": "iXsystems <dev@ixsystems.com>"
+    }
 }
